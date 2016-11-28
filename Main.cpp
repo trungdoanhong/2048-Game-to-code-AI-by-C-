@@ -100,6 +100,9 @@ int main( )
 
 			// using exec.key_press(char key) to play, 'w' = up, 's' = down, 'a' = left, 'd' = right
 
+			// Your code
+
+			// Test code. Delete them when you code
 			char switch_on = rand() % 4;
 			switch( switch_on )
 			{
@@ -119,6 +122,7 @@ int main( )
 			default:
 				break;
 			}
+			// ----- End test code
 
 			//--------- End AI code ---------
 		}
